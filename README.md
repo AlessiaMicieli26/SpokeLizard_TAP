@@ -42,6 +42,6 @@ To deploy and use this pipeline:
 
 ### Contact
 
-For any questions, issues, or suggestions regarding this repository, please contact [your contact information].
+For any questions, issues, or suggestions regarding this repository, please contact [alemicieli26@gmail.com]
 
 ---
