@@ -28,7 +28,7 @@ To deploy and use this pipeline:
    
 2. **Configuration**: Adjust configuration files (`logstash.conf`, `spark-config`, etc.) as per your environment setup and requirements.
 
-3. **Deploy**: Deploy and configure Logstash, Kafka, Spark, Elasticsearch, and Kibana in your environment.
+3. **Deploy**: Deploy and configure Logstash, Kafka, Spark(spark setting is not present because git did not make me load the folder), Elasticsearch, and Kibana in your environment.
 
 4. **Run Pipeline**: Start the pipeline components in the specified order to begin streaming and analyzing data from the "SpokeLizard" web application.
 
